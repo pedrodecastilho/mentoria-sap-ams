@@ -32,7 +32,11 @@ Procure to Pay é o ciclo integrado de compras desde a requisição até o pagam
 
 1. **Crie um post para o seu blog: Resuma o que você aprendeu sobre a diferença entre o SAP ECC e o S/4HANA, e a importância de entender os processos de negócio (O2C e P2P) como desenvolvedor.**
 
+[Iniciando a Carreira no SAP](https://dev.to/pedrodecastilho/iniciando-a-carreira-no-sap-2bih)
+
 2. **Faça um diagrama: Um esboço simples (pode ser no papel, Miro ou Draw.io) do fluxo de um processo Procure-to-Pay. Compartilhe em um post do LinkedIn.**
+
+[Conhecendo processos de negócio](https://www.linkedin.com/posts/pedrodecastilho_sap-p2p-procurement-share-7457526329404682240-ndpG)
 
 ## Referências
 
