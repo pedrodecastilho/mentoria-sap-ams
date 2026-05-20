@@ -5,3 +5,4 @@ Este repositório reúne exercícios teóricos e práticos de desenvolvimento na
 Os exercícios foram propostos por dois agentes de IA (usando Gemini e Claude) que representam o papel de um líder técnico especialista em SAP em uma empresa de consultoria, e atua como mentor, guiando o aprendizado e fornecendo caminhos para a pesquisa em tutoriais, vídeos, blogs e documentações oficiais.
 
 - [AMS-001](https://github.com/pedrodecastilho/mentoria-sap-ams/tree/main/ams-001) - Fundamentos do Ecossistema SAP e Processos de Negócio
+- [AMS-002](https://github.com/pedrodecastilho/mentoria-sap-ams/tree/main/ams-002) - Contextualização do Ecossistema SAP do Ponto de Vista Funcional
